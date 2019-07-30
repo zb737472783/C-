@@ -1,0 +1,7 @@
+W:\C#\黑马程序员\黑马程序员\bin\Debug\黑马程序员.exe.config
+W:\C#\黑马程序员\黑马程序员\bin\Debug\黑马程序员.exe
+W:\C#\黑马程序员\黑马程序员\bin\Debug\黑马程序员.pdb
+W:\C#\黑马程序员\黑马程序员\obj\Debug\黑马程序员.csprojAssemblyReference.cache
+W:\C#\黑马程序员\黑马程序员\obj\Debug\黑马程序员.csproj.CoreCompileInputs.cache
+W:\C#\黑马程序员\黑马程序员\obj\Debug\黑马程序员.exe
+W:\C#\黑马程序员\黑马程序员\obj\Debug\黑马程序员.pdb

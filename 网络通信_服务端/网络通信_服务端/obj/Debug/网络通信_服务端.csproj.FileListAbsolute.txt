@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\bin\Debug\网络通信_服务端.exe.config
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\bin\Debug\网络通信_服务端.exe
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\bin\Debug\网络通信_服务端.pdb
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\obj\Debug\网络通信_服务端.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\obj\Debug\网络通信_服务端.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\obj\Debug\网络通信_服务端.exe
+C:\Users\Administrator\source\repos\网络通信_服务端\网络通信_服务端\obj\Debug\网络通信_服务端.pdb

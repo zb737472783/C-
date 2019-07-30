@@ -1,0 +1,7 @@
+W:\C#\黑马程序员\网络通信\bin\Debug\网络通信.exe.config
+W:\C#\黑马程序员\网络通信\bin\Debug\网络通信.exe
+W:\C#\黑马程序员\网络通信\bin\Debug\网络通信.pdb
+W:\C#\黑马程序员\网络通信\obj\Debug\网络通信.csprojAssemblyReference.cache
+W:\C#\黑马程序员\网络通信\obj\Debug\网络通信.csproj.CoreCompileInputs.cache
+W:\C#\黑马程序员\网络通信\obj\Debug\网络通信.exe
+W:\C#\黑马程序员\网络通信\obj\Debug\网络通信.pdb
